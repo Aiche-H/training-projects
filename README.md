@@ -29,9 +29,9 @@ Feedback and Support:
 I welcome feedback, suggestions, and encouragement from fellow learners and enthusiasts! Feel free to share your thoughts, offer advice, or collaborate on projects by opening an issue or reaching out to me directly.
 
 License:
-some of the files are lisenced by this amazing artist - <https://bevouliin.com/>
+some of the files are lisenced by this amazing artist <https://bevouliin.com/> and are only for personal project no commercial  use.
+
 Acknowledgments:
-Special thanks to the online learning communities, mentors, and resources that have supported and inspired my journey thus far
-and in the future.
+Special thanks to Taitotalo and the online learning communities, mentors, and resources that have supported and inspired my journey thus far and continuing to do so in the future.
 
 Join me as I explore, experiment, and grow through these personal training projects!
